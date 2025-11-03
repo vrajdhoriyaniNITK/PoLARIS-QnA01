@@ -1,0 +1,13 @@
+Different Programming Languages
+
+1. Python:
+Python is a high-level, interpreted programming language known for its simplicity and readability. 
+It is widely used for web development, data analysis, artificial intelligence, and automation.
+
+2. Java:
+Java is a class-based, object-oriented programming language that is platform-independent. 
+It is commonly used for developing Android apps, web applications, and enterprise software.
+
+3. C++:
+C++ is a powerful, compiled programming language that supports both procedural and object-oriented programming. 
+It is often used in system software, game development, and performance-critical applications.
